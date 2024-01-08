@@ -27,9 +27,7 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_OrangeHRM/input_pa
 
 WebUI.click(findTestObject('Object Repository/Page_OrangeHRM/button_Login (1)'))
 
-WebUI.click(findTestObject('Object Repository/Page_OrangeHRM/h6_Dashboard (1)'))
-
-WebUI.click(findTestObject('Object Repository/Page_OrangeHRM/i_oxd-icon bi-caret-down-fill oxd-userdropd_f47aa9'))
+WebUI.click(findTestObject('Page_OrangeHRM/i_oxd-icon bi-caret-down-fill oxd-userdropd_f47aa9'))
 
 WebUI.click(findTestObject('Object Repository/Page_OrangeHRM/a_Logout (1)'))
 
